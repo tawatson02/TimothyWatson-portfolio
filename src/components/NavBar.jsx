@@ -7,7 +7,7 @@ const Navbar = () => {
       <Flex maxW="1200px" mx="auto" align="center">
         <Link as={RouterLink} to="/" color="white" fontSize="xl" fontWeight="bold">
         <Text as="span" fontSize="2xl" color="#9F977F">
-            MyPortfolio
+            Timothy Watson
           </Text>
         </Link>
         <Spacer />
