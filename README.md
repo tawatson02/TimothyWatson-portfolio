@@ -2,7 +2,7 @@
 
 Welcome to my in progress personal portfolio! This project showcases my skills, projects, and experiences as a web developer. 
 It is built using modern web technologies and aims to provide a seamless and interactive experience for visitors.
-
+https://storied-profiterole-318ba5.netlify.app/
 ## About the Project
 
 This portfolio serves as a comprehensive overview of my professional journey. It includes sections for About Me, Projects, and Contact, all styled with Chakra UI to create a visually appealing and user-friendly interface. The portfolio is responsive and ensures a great user experience across different devices.
@@ -34,6 +34,7 @@ Netlify: Deployment and hosting platform.
 To start the development server and view the portfolio locally: 
 Open the terminal and run "npm run dev".
 Open http://localhost:3000 to view it in your browser.
+
 
 ## License
 
