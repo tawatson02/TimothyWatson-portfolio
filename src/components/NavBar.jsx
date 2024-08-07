@@ -21,6 +21,9 @@ const Navbar = () => {
           <Link as={RouterLink} to="/contact" color="white" fontSize={'lg'} _hover={{ color: '#9F977F' }}>
             Contact
           </Link>
+          <Link as={RouterLink} to="/resume" color="white" fontSize={'lg'} _hover={{ color: '#9F977F' }}>
+            Resume
+          </Link>
         </Flex>
       </Flex>
     </Box>
